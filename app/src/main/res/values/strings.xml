@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Señales Transito</string>
+    <string name="descripcion">Selecciona el tipo de señalización</string>
+    <string name="seleccion">Pulse para seleccionar</string>
+    <string name="seleccionado">Has seleccionado:</string>
+
+    <string-array name="tipoSeñalizacion">
+        <item>Informacion</item>
+        <item>Peligro</item>
+        <item>Advertencia</item>
+        <item>Regulacion</item>
+    </string-array>
+
+    <string-array name="Informacion">
+        <item>Hospital</item>
+        <item>Estación de Servicio</item>
+        <item>Aeropuerto</item>
+        <item>Estación de Policía</item>
+        <item>Estacion de peaje</item>
+        <item>Estacionamiento</item>
+        <item>Parada de autobus</item>
+        <item>Direccion de destino</item>
+    </string-array>
+
+
+    <string-array name="Peligro">
+        <item>Peligro por Obra en la Carretera</item>
+        <item>Cruce de Vehículos Pesados</item>
+        <item>Cruce de Tren</item>
+        <item>Desnivel en la Carretera</item>
+        <item>Curva peligroza a la derecha</item>
+        <item>Curva peligrosa a la izquierda</item>
+        <item>Pronunciada a accidentes</item>
+        <item>Insercion accidentes</item>
+        <item>Cruce de peatones</item>
+    </string-array>
+
+    <string-array name="Advertencia">
+        <item>Curva Peligrosa</item>
+        <item>Zona Escolar</item>
+        <item>Pavimento Resbaladizo</item>
+        <item>Animales en la Vía</item>
+        <item>Ceda el paso</item>
+        <item>Reduccion de carriles</item>
+    </string-array>
+
+    <string-array name="Regulacion">
+        <item>Pare</item>
+        <item>Ceda el Paso</item>
+        <item>Cruce de Peatones</item>
+        <item>No Girar a la Derecha</item>
+        <item>Limite de velocidad</item>
+        <item>Zona escolar</item>
+        <item>Prohibido girar en U</item>
+    </string-array>
+</resources>
